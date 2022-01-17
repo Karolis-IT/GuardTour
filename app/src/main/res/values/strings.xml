@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Guard Tour System</string>
+    <string name="tag_null">Null Tag</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="information_header">Information</string>
+    <string name="server_header">Server settings</string>
+    <string name="panic_header">Panic buttons</string>
+    <string name="settings_url">URL</string>
+    <string name="settings_phone_name">Phone name</string>
+    <string name="default_url">http://logonitas.lt/LIT02/API/set_card_read.php</string>
+    <string name="turn_on_flashlight">Turn on Flashlight</string>
+    <string name="turn_off_flashlight">Turn off Flashlight</string>
+    <string name="incident_report">Incident report</string>
+    <string name="from_gallery">Choose image from Gallery</string>
+    <string name="use_camera">Take photo with camera</string>
+    <string name="note">Leave a report or a note</string>
+    <string name="upload">Upload</string>
+    <string name="panic_button_call">Panic Button Call</string>
+    <string name="panic_button_send_sms">Panic Button Send SMS</string>
+    <string name="message_sent">Message sent</string>
+    <string name="phone_number_to_call">Phone number to call</string>
+    <string name="phone_number_to_send_message">Phone number to send message</string>
+    <string name="panic_message">Panic message</string>
+    <string name="default_panic_message">Panic button activated!</string>
+    <string name="set_phone_number">Please set number in settings</string>
+</resources>
